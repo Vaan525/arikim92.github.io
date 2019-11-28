@@ -1,15 +1,33 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Arikim"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+![사진](https://storage.googleapis.com/arikim/github/2019-05-17-dreamyoungs.jpg)
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+> 여기서 저는 누굴까요 'ㅅ'?
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+[꿈많은청년들](https://dreamyoungs.com) 에서 챗봇을 담당하고 있는 백엔드 서버 개발자 'Ari' 입니다 :)
 
-Thanks for reading!
+PHP 로 웹을 개발하다 챗봇을 만나면서 Node.js 개발자가 되었어요!
+
+꾸준히 글을 올리는게 목표입니다 ...ㅎㅅㅎ
+
+만들어본 플랫폼 (많이 만들어 본 순서): 카카오톡, 페이스북, 네이버 톡톡, 라인, 빅스비
+
+
+## 제가 만든 것들중에 제일 애정하는 (카카오톡) 꿈청 챗봇 Top 3 
+
+> 너.입.맛 너의 입맛은?
+
+https://pf.kakao.com/_fXxkxcC
+
+> 영화퀴즈챗봇 무무
+
+https://pf.kakao.com/_kxdFxlC
+
+> 운세봇
+
+https://pf.kakao.com/_xgvEMd

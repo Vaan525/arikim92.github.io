@@ -1,23 +1,40 @@
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>{% if page.layout == 'post' %}{{ page.title }} :: {% endif %}{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="fb:app_id" content="1127912933983675" />
+{% if page.layout == 'post' %}
+    <meta property="og:title" content="{{ page.title }} :: {{ site.title }}">
+    {% if page.ogimage %}
+    <meta property="og:image" content="{{ page.ogimage | prepend: site.baseurl }}">
+    {% else %}
+    <meta property="og:image" content="/assets/layout/default.png">
+    {% endif %}
+{% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:image" content="/assets/layout/default.png">
+{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:url" content="{% if page.id %}{{ page.id | prepend: site.baseurl }}{% else %}{{ site.baseurl }}{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  {% seo %}
+<!-- Favicon -->
+<link rel="apple-touch-icon" href="{{ '/assets/layout/favicon.ico' | relative_url }}"/>
+<link rel="shortcut icon" href="{{ '/assets/layout/favicon.ico' | relative_url }}" type="image/x-icon" />
+<link rel="icon" href="{{ '/assets/layout/favicon.ico' | relative_url }}" type="image/x-icon" />
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+<!-- CSS -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+<!-- JS -->
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+<script src="{{ '/assets/setting.js' | relative_url }}"></script>
 
-  <!-- RSS -->
-  {% feed_meta %}
-
-  <!-- Google Analytics-->
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %}
+<!-- Google Analytics-->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
