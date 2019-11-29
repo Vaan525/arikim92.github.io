@@ -15,7 +15,7 @@ tags: [ chatbot, kakao, yellowid ]
 
 > 서버 세팅에 대해, 또는 이 게시글에 궁금한 점이 있으면 댓글로 남겨주세요.
 
-[옐로아이디](https://yellowid.kakao.com/login) 홈페이지에 접속합니다.
+[옐로아이디](https://yellowid.kakao.com/login){: target="_blank"} 홈페이지에 접속합니다.
 
 `내 옐로아이디 관리` 를 클릭합니다.
 

@@ -10,7 +10,7 @@
 
 ![List]( {{ site.img_url }}/{{ page.categories }}/chrome-play-console01.png )
 
-## [Assert](https://developer.mozilla.org/en-US/docs/Web/API/Console/assert)
+## [Assert](https://developer.mozilla.org/en-US/docs/Web/API/Console/assert){: target="_blank"}
 
 if 문을 쓰지않고 assert 안에서 if 문처럼 사용할 수 있음.
 
@@ -40,7 +40,7 @@ for (let number = 2; number <= 5; number += 1) {
 
 ![Assert]( {{ site.img_url }}/{{ page.categories }}/chrome-play-console02.png )
 
-## [Clear](https://developer.mozilla.org/en-US/docs/Web/API/Console/clear)
+## [Clear](https://developer.mozilla.org/en-US/docs/Web/API/Console/clear){: target="_blank"}
 
 console 내용을 모두 지움
 
@@ -50,7 +50,7 @@ console.clear();
 
 ![Clear]( {{ site.img_url }}/{{ page.categories }}/chrome-play-console03.png )
 
-## [Count](https://developer.mozilla.org/en-US/docs/Web/API/Console/count)
+## [Count](https://developer.mozilla.org/en-US/docs/Web/API/Console/count){: target="_blank"}
 
 호출 된 횟수를 출력
 
@@ -62,7 +62,7 @@ console.count( a );
 
 ![Count]( {{ site.img_url }}/{{ page.categories }}/chrome-play-console05.png )
 
-## [CountReset](https://developer.mozilla.org/en-US/docs/Web/API/Console/countReset)
+## [CountReset](https://developer.mozilla.org/en-US/docs/Web/API/Console/countReset){: target="_blank"}
 
 호출 된 횟수를 리셋
 
@@ -70,7 +70,7 @@ console.count( a );
 console.countReset( a );
 ```
 
-## [Dir](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
+## [Dir](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir){: target="_blank"}
 
 객체를 보기 편하게 보여줌
 
@@ -89,7 +89,7 @@ Object
     __proto__: Object
 ```
 
-## [Error](https://developer.mozilla.org/en-US/docs/Web/API/Console/error)
+## [Error](https://developer.mozilla.org/en-US/docs/Web/API/Console/error){: target="_blank"}
 
 에러를 출력
 
@@ -102,7 +102,7 @@ console.exception( a );
 
 ![Error]( {{ site.img_url }}/{{ page.categories }}/chrome-play-console07.png )
 
-## [Group](https://developer.mozilla.org/en-US/docs/Web/API/Console/group)
+## [Group](https://developer.mozilla.org/en-US/docs/Web/API/Console/group){: target="_blank"}
 
 ```javascript
 console.group();

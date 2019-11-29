@@ -13,21 +13,21 @@ tags: [ chatbot, slack ]
 
 ## 참고 URL
 
-- 슬랙 홈페이지 <https://arikim.slack.com/home>
+- 슬랙 홈페이지 <https://arikim.slack.com/home>{: target="_blank"}
 
-- 슬랙 API <https://api.slack.com/>
+- 슬랙 API <https://api.slack.com/>{: target="_blank"}
 
 
 ## 1. 봇 만들기
 
-<https://api.slack.com/apps> 에서 `Create New App` 을 선택합니다.
+<https://api.slack.com/apps>{: target="_blank"} 에서 `Create New App` 을 선택합니다.
 
 `App Name` 과 `Workspace` 를 선택합니다.
 
 `App Name` 은 추후에 바꿀 수 있어요 ㅎ_ㅎ
 
 
-## 2. 봇 기본 세팅 <https://api.slack.com/apps/{슬랙_키}?created=1>
+## 2. 봇 기본 세팅 <https://api.slack.com/apps/{슬랙_키}?created=1>{: target="_blank"}
 
 > Display Information
 
@@ -37,7 +37,7 @@ tags: [ chatbot, slack ]
 
 이름과 설명, 아이콘 을 설정할 수 있어요.
 
-앱을 제출하려면 [가이드라인](https://api.slack.com/docs/slack-apps-guidelines) 에 따라서 설정해주세요.
+앱을 제출하려면 [가이드라인](https://api.slack.com/docs/slack-apps-guidelines){: target="_blank"} 에 따라서 설정해주세요.
 
 > Building Apps for Slack
 
@@ -52,7 +52,7 @@ tags: [ chatbot, slack ]
 
 > Features - Event Subscriptions - Enable Events
 
-이벤트 관련한 문서는 <https://api.slack.com/events-api> 여기를 참고하시면 됩니다.
+이벤트 관련한 문서는 <https://api.slack.com/events-api>{: target="_blank"} 여기를 참고하시면 됩니다.
 
 `Enable Events` 를 활성화 시켜줍니다.
 
@@ -77,7 +77,7 @@ console.log( "[ req.body ]", req.body );
 
 받은 `challenge` 를 그대로 넘겨주는 소스코드를 상단에 넣었어요.
 
-참고 URL: <https://api.slack.com/events/url_verification>
+참고 URL: <https://api.slack.com/events/url_verification>{: target="_blank"}
 
 ```javascript
 // 슬랙 인증

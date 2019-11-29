@@ -11,7 +11,7 @@ tags: [ chatbot, facebook, facebook-messenger ]
 
 1편이 Quick Reply 인 이유는 제가 이 부분을 공부했기 때문입니다 (..)
 
-페이스북 문서 [https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies](https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies) 를 참고하시면 `더욱` 편리합니다.
+페이스북 문서 [https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies](https://developers.facebook.com/docs/messenger-platform/send-messages/quick-replies){: target="_blank"} 를 참고하시면 `더욱` 편리합니다.
 
 빠른 버튼은 아래에 기본 제공되는 버튼이 아니라 해당 메뉴를 실행했을 경우에만 확인할 수 있습니다.
 
@@ -23,7 +23,7 @@ tags: [ chatbot, facebook, facebook-messenger ]
 
 보이는 바와 같이 텍스트 or 이모티콘도 설정 가능합니다.
 
-> [영화퀴즈챗봇 무무](https://m.me/moviequizbot)
+> [영화퀴즈챗봇 무무](https://m.me/moviequizbot){: target="_blank"}
 
 ![영화퀴즈챗봇무무]( {{ site.img_url }}/{{ page.categories }}/facebook-messenger-guids-quick-reply01.jpeg )
 
