@@ -23,7 +23,7 @@ tags: [ tip, remote ]
 
 최신 기능과 보안 업데이트를 받으려면 웹 앱을 사용하라는 안내 메세지가 얼마전부터 나오기 시작했어요.
 
-<https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai>
+<https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai>{: target="_blank"}
 
 링크를 타고 가면 확장 프로그램을 다운받을 수 있어요.
 

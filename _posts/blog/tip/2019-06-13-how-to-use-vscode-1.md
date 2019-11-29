@@ -23,13 +23,13 @@ iMac Mojave
 
 ## 1. 설치
 
-홈페이지 <https://code.visualstudio.com/> 에서 파일을 다운로드 받고 설치해요.
+홈페이지 <https://code.visualstudio.com/>{: target="_blank"} 에서 파일을 다운로드 받고 설치해요.
 
 macOS, Window x64, Linux x64 버전으로, 설치 환경에 맞게 자동으로 맨 처음에 나와요.
 
 설치하면 기본 설명서를 띄워줘요.
 
-<https://code.visualstudio.com/docs?start=true>
+<https://code.visualstudio.com/docs?start=true>{: target="_blank"}
 
 ![비쥬얼-스튜디오-코드-홈페이지]( {{ site.img_url }}/{{ page.categories }}/how-to-use-vscode01.png )
 

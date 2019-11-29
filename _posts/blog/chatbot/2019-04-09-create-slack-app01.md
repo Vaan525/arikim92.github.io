@@ -27,7 +27,7 @@ tags: [ chatbot, slack ]
 `App Name` 은 추후에 바꿀 수 있어요 ㅎ_ㅎ
 
 
-## 2. 봇 기본 세팅 <https://api.slack.com/apps/{슬랙_키}?created=1>{: target="_blank"}
+## 2. [봇 기본 세팅](https://api.slack.com/apps/{슬랙_키}?created=1){: target="_blank"}
 
 > Display Information
 

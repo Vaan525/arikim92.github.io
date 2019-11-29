@@ -15,11 +15,11 @@ tags: [ tip, subdomain, githubpages, tistory, naver, blog ]
 
 > 참고
 
-- 티스토리 : <http://tistory.devari.kr>
+- 티스토리: <http://tistory.devari.kr>{: target="_blank"}
 
-- 깃허브 페이지 : <{{ site.baseurl }}>
+- 깃허브 페이지: <{{ site.baseurl }}>{: target="_blank"}
 
-- 네이버 블로그 : <https://hobby.devari.kr>
+- 네이버 블로그: <https://hobby.devari.kr>{: target="_blank"}
 
 ## 1. 블로그 자동연결<a id="1-블로그-자동연결" href="#1-블로그-자동연결" class="s-link" aria-hidden="true"></a>
 
@@ -60,19 +60,19 @@ IP 사용은 `서브도메인(A)` 로 설정해주셔야 합니다.
 
 > 별칭
 
-- 깃허브페이지 : 깃허브페이지에서 만들 때 발급받은 주소
+- 깃허브페이지: 깃허브페이지에서 만들 때 발급받은 주소
 
     ex ) 깃허브아이디.github.io.
 
     앗, 참고로 깃허브페이지는 `blog` 가 아닐경우 오류 메일이 오더라구요 :(
 
-- 티스토리 : host.tistory.io.
+- 티스토리: host.tistory.io.
 
 > 서브도메인
 
-- 네이버블로그 : 125.209.214.79
+- 네이버블로그: 125.209.214.79
 
-- 자신의 서버 : IP
+- 자신의 서버: IP
 
 ![도메인설정]( {{ site.img_url }}/{{ page.categories }}/20170428_160326.png )
 

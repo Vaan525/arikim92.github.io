@@ -14,7 +14,7 @@ robots.txt 가 잘 사용되고 있는지 확인할 수 있는 사이트입니�
 
 robots.txt 위치를 사이트 주소와함께 input box 에 넣고 check 해주세요.
 
-<http://tool.motoricerca.info/robots-checker.phtml>
+<http://tool.motoricerca.info/robots-checker.phtml>{: target="_blank"}
 
 ![preview]( {{ site.img_url }}/{{ page.categories }}/20161116175305_fb5c8.png )
 no errors found in this robots.txt file ..
@@ -22,4 +22,4 @@ no errors found in this robots.txt file ..
 오류가 없다는 소리인가봅니다 ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ
 
 오늘도 영어는 구글번역과 함께(?) !!
-<https://translate.google.co.kr/?hl=ko>
+<https://translate.google.co.kr/?hl=ko>{: target="_blank"}

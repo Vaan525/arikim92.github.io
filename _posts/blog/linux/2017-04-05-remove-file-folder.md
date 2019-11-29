@@ -43,4 +43,4 @@ rm /test/*
 
 ## 참고 블로그<a id="참고-블로그" href="#참고-블로그" class="s-link" aria-hidden="true"></a>
 
-<http://webdir.tistory.com/140>
+<http://webdir.tistory.com/140>{: target="_blank"}

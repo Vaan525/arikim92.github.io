@@ -25,7 +25,7 @@ tags: [ tip, facebook, login ]
 
 ## 2. 페이스북 개발자센터 앱 만들고 설정하기<a id="2-페이스북-개발자센터-앱-만들고-설정하기" href="#2-페이스북-개발자센터-앱-만들고-설정하기" class="s-link" aria-hidden="true"></a>
 
-<https://developers.facebook.com/> 으로 들어갑니다 :)
+<https://developers.facebook.com/>{: target="_blank"} 으로 들어갑니다 :)
 
 `내 앱` 부분에 마우스를 갖다대면 `새 앱 추가` 라는 버튼이 있습니다.
 
@@ -63,7 +63,7 @@ tags: [ tip, facebook, login ]
 
 이제 기본 설정은 끝났습니다.
 
-<https://developers.facebook.com/docs/facebook-login/web> 여기 주소의 문서를 참고해서 연동해볼게요.
+<https://developers.facebook.com/docs/facebook-login/web>{: target="_blank"} 여기 주소의 문서를 참고해서 연동해볼게요.
 
 저는 로그인 버튼을 만들어서 연동해볼게요 :)
 
@@ -143,7 +143,7 @@ tags: [ tip, facebook, login ]
 
 로그인 하면서 앱에 권한을 주게됩니다.
 
-앱 권한은 <https://www.facebook.com/settings?tab=applications> 에서 삭제하실 수 있습니다.
+앱 권한은 <https://www.facebook.com/settings?tab=applications>{: target="_blank"} 에서 삭제하실 수 있습니다.
 
 ## 6. 추가 작업 (선택사항)<a id="6-추가-작업-선택사항" href="#6-추가-작업-선택사항" class="s-link" aria-hidden="true"></a>
 
@@ -157,7 +157,7 @@ tags: [ tip, facebook, login ]
 
 `scope="public_profile,email,publish_pages,manage_pages"` , `onlogin="fbLogin();"` 부분이 추가되었습니다.
 
-scope 부분은 <https://developers.facebook.com/docs/facebook-login/permissions> 여기서 자세한 사항을 확인할 수 있습니다.
+scope 부분은 <https://developers.facebook.com/docs/facebook-login/permissions>{: target="_blank"} 여기서 자세한 사항을 확인할 수 있습니다.
 
 ```html
 <!-- login btn -->

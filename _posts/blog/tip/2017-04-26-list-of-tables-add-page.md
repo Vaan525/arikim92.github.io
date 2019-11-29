@@ -11,7 +11,7 @@ tags: [ tip, js, list-of-tables ]
 
 새 포스트를 추가하면서 목차 기능을 넣었습니다.
 
-미리보기 : [미리보기](/2017/tip/facebook-login-connect)
+미리보기: [미리보기](/2017/tip/facebook-login-connect){: target="_blank"}
 
 나중에는 디자인도 바꿀 예정이지만 간단하게 넣어봤습니다 :)
 
@@ -68,7 +68,6 @@ tags: [ tip, js, list-of-tables ]
 ```javascript
 // 로딩 시 체크
 $(window).load(function() {
-
     // 목차 태그가 있다면 제목을 찾는다.
     if ( $('.post-wrap').find('.list-of-tables') ) {
         var subject = $('.post-wrap').find('h2');

@@ -15,9 +15,9 @@ tags: [ nodejs, sublimetext ]
 
 ## 1. Sublime text3 설치<a id="1-Sublime-text3" href="#1-Sublime-text3" class="s-link" aria-hidden="true"></a>
 
-[Sublime text3](https://www.sublimetext.com/3) 사이트에서 운영체제에 맞게 다운받고 설치합니다.
+[Sublime text3](https://www.sublimetext.com/3){: target="_blank"} 사이트에서 운영체제에 맞게 다운받고 설치합니다.
 
-[Sublime text2](https://www.sublimetext.com/2) 로 설치하셔도 무방합니다.
+[Sublime text2](https://www.sublimetext.com/2){: target="_blank"} 로 설치하셔도 무방합니다.
 
 View - Show Console 에서 아래 내용을 붙여넣기 해주세요.
 

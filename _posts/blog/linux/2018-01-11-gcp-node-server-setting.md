@@ -31,7 +31,7 @@ Google Cloud Platform 에 가입하셔서 프로젝트를 만들어주세요.
 
 영역 부분입니다. 저는 서버를 미국에 뒀는데요, `Facebook chatbot` 작업을 할 거라서 그쪽에 뒀어요.
 
-[영역 참고자료](https://cloud.google.com/compute/docs/regions-zones/?hl=ko&_ga=2.216688213.-2101340162.1498636459) 에 가시면 자세히 볼 수 있어요.
+[영역 참고자료](https://cloud.google.com/compute/docs/regions-zones/?hl=ko&_ga=2.216688213.-2101340162.1498636459){: target="_blank"} 에 가시면 자세히 볼 수 있어요.
 
 한국과 제일 가까운 서버를 선택하시려면 일본에 있는 `asia-northeast1` 를 선택하시면 됩니다.
 
