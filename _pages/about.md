@@ -9,7 +9,7 @@ permalink: /about/
 
 > 여기서 저는 누굴까요 'ㅅ'?
 
-[꿈많은청년들](https://dreamyoungs.com) 에서 챗봇을 담당하고 있는 백엔드 서버 개발자 'Ari' 입니다 :)
+[꿈많은청년들](https://dreamyoungs.com/){: target="_blank"} 에서 챗봇을 담당하고 있는 백엔드 서버 개발자 'Ari' 입니다 :)
 
 PHP 로 웹을 개발하다 챗봇을 만나면서 Node.js 개발자가 되었어요!
 
