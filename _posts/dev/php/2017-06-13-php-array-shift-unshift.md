@@ -9,7 +9,7 @@ categories: [ php ]
 tags: [ php, array, value, shift, unshift ]
 ---
 
-<http://php.net/manual/kr/function.array-shift.php>
+<http://php.net/manual/kr/function.array-shift.php>{: target="_blank"}
 
 ```php
 <?php
@@ -22,7 +22,7 @@ print_r( $array );
 ?>
 ```
 
-<http://php.net/manual/kr/function.array-unshift.php>
+<http://php.net/manual/kr/function.array-unshift.php>{: target="_blank"}
 
 ```php
 <?php

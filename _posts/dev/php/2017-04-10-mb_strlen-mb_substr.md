@@ -57,10 +57,10 @@ echo mb_substr($string, 0, 8, 'utf-8');
 
 ## 함께보면 좋은<a id="함께보면-좋은" href="#함께보면-좋은" class="s-link" aria-hidden="true"></a>
 
-- [php.net substr](http://php.net/manual/kr/function.substr.php)
+- [php.net substr](http://php.net/manual/kr/function.substr.php){: target="_blank"}
 
-- [php.net strlen](http://php.net/manual/kr/function.strlen.php)
+- [php.net strlen](http://php.net/manual/kr/function.strlen.php){: target="_blank"}
 
-- [php.net mb_substr](http://php.net/manual/en/function.mb-substr.php)
+- [php.net mb_substr](http://php.net/manual/en/function.mb-substr.php){: target="_blank"}
 
-- [php.net mb_strlen](http://php.net/manual/en/function.mb-strlen.php)
+- [php.net mb_strlen](http://php.net/manual/en/function.mb-strlen.php){: target="_blank"}

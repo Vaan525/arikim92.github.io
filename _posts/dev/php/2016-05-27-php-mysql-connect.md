@@ -47,4 +47,4 @@ $mysqli->set_charset("utf8");
 
 ## 참고 페이지<a id="참고-페이지" href="#참고-페이지" class="s-link" aria-hidden="true"></a>
 
-- <http://php.net/manual/kr/function.mysql-connect.php>
+- <http://php.net/manual/kr/function.mysql-connect.php>{: target="_blank"}

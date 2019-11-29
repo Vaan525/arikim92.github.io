@@ -26,4 +26,4 @@ Fatal error: Allowed memory size of ~ bytes exhausted ...
 ```
 
 ## 참고 페이지<a id="참고-페이지" href="#참고-페이지" class="s-link" aria-hidden="true"></a>
-<http://zetawiki.com/wiki/PHP_메모리_부족>
+<http://zetawiki.com/wiki/PHP_메모리_부족>{: target="_blank"}

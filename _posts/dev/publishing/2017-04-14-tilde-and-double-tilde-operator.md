@@ -72,5 +72,6 @@ console.log(~~num2);
 
 ## 참고 블로그<a id="참고-블로그" href="#참고-블로그" class="s-link" aria-hidden="true"></a>
 
-- [Web Club :: 틸트(~) 연산자와 물결물결(~~) 연산자](http://webclub.tistory.com/21)
-- [Stack Overflow :: what-is-the-double-tilde-operator-in-javascript](http://stackoverflow.com/questions/5971645/what-is-the-double-tilde-operator-in-javascript/5971689)
+- [Web Club :: 틸트(~) 연산자와 물결물결(~~) 연산자](http://webclub.tistory.com/21){: target="_blank"}
+
+- [Stack Overflow :: what-is-the-double-tilde-operator-in-javascript](http://stackoverflow.com/questions/5971645/what-is-the-double-tilde-operator-in-javascript/5971689){: target="_blank"}

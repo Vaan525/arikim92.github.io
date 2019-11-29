@@ -16,7 +16,7 @@ tags: [ js, css ]
 
 색상, 크기, 종류 등을 설정할 수 있어요.
 
-저는 <https://preloaders.net/> 에서 무료 이미지로 만들었습니다.
+저는 <https://preloaders.net/>{: target="_blank"} 에서 무료 이미지로 만들었습니다.
 ```
 #5e9ef2
 ```
@@ -73,6 +73,7 @@ $(window).load(function() {
 ```
 
 ## 참고 블로그<a id="참고-블로그" href="#참고-블로그" class="s-link" aria-hidden="true"></a>
-[이미지 만들기 https://www.cmsfactory.net/node/11085](https://www.cmsfactory.net/node/11085)
 
-[이미지 보이기 http://zent.tistory.com/86](http://zent.tistory.com/86)
+- [이미지 만들기 https://www.cmsfactory.net/node/11085](https://www.cmsfactory.net/node/11085){: target="_blank"}
+
+- [이미지 보이기 http://zent.tistory.com/86](http://zent.tistory.com/86){: target="_blank"}

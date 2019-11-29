@@ -11,7 +11,7 @@ tags: [ php, array, sort ]
 
 정렬방법은 다양하니 아래 php 사이트에서 확인해주세요 :)
 
-<http://php.net/manual/kr/function.sort.php>
+<http://php.net/manual/kr/function.sort.php>{: target="_blank"}
 
 ```php
 <?php

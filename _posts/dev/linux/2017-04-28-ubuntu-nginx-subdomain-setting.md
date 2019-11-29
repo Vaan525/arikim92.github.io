@@ -29,7 +29,7 @@ tags: [ ubuntu, nginx, subdomain ]
 
 더 자세한 설정은 미리 올라온 포스팅에서 확인해주세요 :)
 
-이동 : [도메인 설정](/2017/tip/github-page-tistory-naver-blog-subdomain-setting)
+이동 : [도메인 설정](/2017/tip/github-page-tistory-naver-blog-subdomain-setting){: target="_blank"}
 
 > 참고 이미지
 
@@ -39,7 +39,7 @@ tags: [ ubuntu, nginx, subdomain ]
 
 nginx 설정 파일 위치를 알아야 수정하겠죠 !
 
-> [nginx 설정파일 세팅](/2017/linux/linux-ln-command-link-s) 방법을 참고 하세요.
+> [nginx 설정파일 세팅](/2017/linux/linux-ln-command-link-s){: target="_blank"} 방법을 참고 하세요.
 
 ```bash
 /etc/nginx/nginx.conf

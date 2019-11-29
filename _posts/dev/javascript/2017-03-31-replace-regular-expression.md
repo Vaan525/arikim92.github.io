@@ -55,5 +55,6 @@ result = string.replace( /\r/g, "" );
 ```
 
 ## 참고 블로그<a id="참고-블로그" href="#참고-블로그" class="s-link" aria-hidden="true"></a>
-- [cocy](http://cocy.tistory.com/24)
-- [http://www.codejs.co.kr/자바스크립트에서-replace를-replaceall-처럼-사용하기](http://www.codejs.co.kr/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-replace%EB%A5%BC-replaceall-%EC%B2%98%EB%9F%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+
+- [cocy](http://cocy.tistory.com/24){: target="_blank"}
+- [http://www.codejs.co.kr/자바스크립트에서-replace를-replaceall-처럼-사용하기](http://www.codejs.co.kr/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-replace%EB%A5%BC-replaceall-%EC%B2%98%EB%9F%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/){: target="_blank"}

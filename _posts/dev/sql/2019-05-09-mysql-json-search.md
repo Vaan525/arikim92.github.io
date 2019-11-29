@@ -17,7 +17,7 @@ json 검색하는 법을 검색했는데 이것저것 나와있어서 불편했�
 
 공식 홈페이지도 같이 참고하면 좋을 것 같아요 :)
 
-[MySQL :: MySQL 5.7 Reference Manual :: 11.6 The JSON Data Type](https://dev.mysql.com/doc/refman/5.7/en/json.html)
+[MySQL :: MySQL 5.7 Reference Manual :: 11.6 The JSON Data Type](https://dev.mysql.com/doc/refman/5.7/en/json.html){: target="_blank"}
 
 User Table 에서 `user_data` 를 object 로 담아서 기본 내용 외에 필요한 내용을 저장하고 있어요.
 오늘 예제는 `핸드폰 번호` 와 `우리집맛집 금정점` 을 찾아 볼게요 :)

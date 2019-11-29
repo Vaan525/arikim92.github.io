@@ -19,6 +19,7 @@ tags: [js, ready, onload, document]
 *****
 
 ## 1. 실행 순서<a id="1-실행-순서" href="#1-실행-순서" class="s-link" aria-hidden="true"></a>
+
 1. document.ready
 2. window.ready
 3. window.onload

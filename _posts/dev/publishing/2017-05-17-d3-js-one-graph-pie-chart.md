@@ -14,7 +14,7 @@ tags: [ js, jQuery, d3, chart, graph ]
 
 ## 1. 사전준비<a id="1-사전준비" href="#1-사전준비" class="s-link" aria-hidden="true"></a>
 
-<https://d3js.org/> D3 홈페이지로 접속합니다.
+<https://d3js.org/>{: target="_blank"} D3 홈페이지로 접속합니다.
 
 다운로드를 받거나, 스크립트를 추가해서 사용할 수 있습니다.
 

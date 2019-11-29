@@ -19,9 +19,7 @@ sudo apt install php7.0-mbstring
 
 아주 깔끔히 실행된다 !
 
-하는김에 [mb_strlen, mb_substr 사용법](https://arikim92.github.io/php-mb_strlen-mb_substr)도 포스팅 해야지.
-
 ## 참고는 역시 `스택오버플로우`
 
-- [php - Fatal error: Call to undefined function mb_strlen() - Stack Overflow](http://stackoverflow.com/questions/6419102/fatal-error-call-to-undefined-function-mb-strlen)
-- [한글 번역본](https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=http://stackoverflow.com/questions/6419102/fatal-error-call-to-undefined-function-mb-strlen&usg=ALkJrhjHGKyE2yoa9WyABOELuD5Ytf7WBA)
+- [php - Fatal error: Call to undefined function mb_strlen() - Stack Overflow](http://stackoverflow.com/questions/6419102/fatal-error-call-to-undefined-function-mb-strlen){: target="_blank"}
+- [한글 번역본](https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=http://stackoverflow.com/questions/6419102/fatal-error-call-to-undefined-function-mb-strlen&usg=ALkJrhjHGKyE2yoa9WyABOELuD5Ytf7WBA){: target="_blank"}

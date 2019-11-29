@@ -91,4 +91,4 @@ console.log( "Server running at http://127.0.0.1:3000" );
 
 ## 참고 블로그<a id="참고-블로그" href="#참고-블로그" class="s-link" aria-hidden="true"></a>
 
-- [nginx를 이용하여 nodejs와 php 어플리케이션 함께 구동하기](http://blog.jeonghwan.net/how-to-run-nodejs-and-php-by-using-nginx/)
+- [nginx를 이용하여 nodejs와 php 어플리케이션 함께 구동하기](http://blog.jeonghwan.net/how-to-run-nodejs-and-php-by-using-nginx/){: target="_blank"}

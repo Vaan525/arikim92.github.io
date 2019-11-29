@@ -11,7 +11,7 @@ tags: [ nodejs, nginx, facebook, messenger, chatbot ]
 
 ## 1. Facebook 앱 만들기<a id="1-facebook-앱-만들기" href="#1-facebook-앱-만들기" class="s-link" aria-hidden="true"></a>
 
-<https://developers.facebook.com/> 이동해주세요.
+<https://developers.facebook.com/>{: target="_blank"} 이동해주세요.
 
 ![이미지1]( {{ site.img_url }}/{{ page.categories }}/facebook-messenger-basic-set01.png )
 
@@ -35,7 +35,7 @@ tags: [ nodejs, nginx, facebook, messenger, chatbot ]
 
 node 와 nginx 설정부분은 <a href="#3-이전-이야기">이전 글</a> 을 선택해주세요.
 
-가이드는 페이스북에도 나와있어요. <https://developers.facebook.com/docs/messenger-platform/guides/quick-start/>
+가이드는 페이스북에도 나와있어요. <https://developers.facebook.com/docs/messenger-platform/guides/quick-start/>{: target="_blank"}
 
 하지만 어려움을 겪는 부분이 생겨서 (...)
 
