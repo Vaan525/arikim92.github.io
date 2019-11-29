@@ -22,12 +22,12 @@ PHP 로 웹을 개발하다 챗봇을 만나면서 Node.js 개발자가 되었�
 
 > 너.입.맛 너의 입맛은?
 
-https://pf.kakao.com/_fXxkxcC
+<https://pf.kakao.com/_fXxkxcC>{: target="_blank"}
 
 > 영화퀴즈챗봇 무무
 
-https://pf.kakao.com/_kxdFxlC
+<https://pf.kakao.com/_kxdFxlC>{: target="_blank"}
 
 > 운세봇
 
-https://pf.kakao.com/_xgvEMd
+<https://pf.kakao.com/_xgvEMd>{: target="_blank"}
