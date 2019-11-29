@@ -21,10 +21,18 @@ tags: [ tip, markdown, target ]
 [링크이름](링크주소)
 ```
 
+```md
+<링크주소>
+```
+
 > 링크를 새 창으로 띄우는 법
-> 
+
 [새 창 구글](https://www.google.com/){: target="_blank"}
 
 ```md
 [링크이름](링크주소){: target="_blank"}
+```
+
+```md
+<링크주소>{: target="_blank"}
 ```
