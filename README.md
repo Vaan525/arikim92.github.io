@@ -1,14 +1,14 @@
 # blog.devari.kr
 
-## hello
+## Hello
 
-:) 서버 개발자 아리에요.
+:) 웹 개발자 에서 서버 개발자 된 Ari 에요.
 
 `Node.js` , `Javascript` , `PHP` , `MySQL` , `Google Cloud Platform` 을 사용하고 있어요.
 
-저의 메모용 블로그로 사용중이에요.
+이 곳은 저의 메모용 블로그로 사용중이에요.
 
-## _190618
+## _191128
 
 글만 그대로 옮겨오고 테마랑 디자인을 싹 바꿨어요 :)
 
@@ -17,6 +17,7 @@
 ## Set
 
 - [Github Pages](https://pages.github.com/)
+- 
 - [Jekyll](https://jekyllrb-ko.github.io/)
 
 ## Theme
