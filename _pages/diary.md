@@ -2,6 +2,7 @@
 layout: page
 title: "Diary"
 author: "Arikim"
+category: diary
 permalink: /diary/
 ---
 
