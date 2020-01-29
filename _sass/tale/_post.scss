@@ -119,6 +119,13 @@
     .fa-feather:before {
         padding-right: .5rem;
     }
+    
+    ul > li > .highlighter-rouge {
+        border-radius: 3px;
+        color: $layout-point;
+        font-size: 85%;
+        padding: 0.25em 0.5em;
+    }
 
     ul.posts-list {
         list-style-type: decimal-leading-zero;
