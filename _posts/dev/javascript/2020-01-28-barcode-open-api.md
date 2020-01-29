@@ -84,7 +84,3 @@ http://bwipjs-api.metafloor.com/?bcid=code128&text=%5EFNC1011234567890&parsefnc&
 ```
 
 ![바코드이미지]( {{ site.img_url }}/{{ page.categories }}/barcode-open-api05.png )
-
-
-
-barcode-open-api0
