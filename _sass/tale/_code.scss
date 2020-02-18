@@ -25,8 +25,27 @@ pre code {
 
 div.highlighter-rouge {
 	position: relative;
+    margin-top: 2em;
 }
 
+/* 무슨 코드인지 알려주려고 */
+.highlighter-rouge:before {    
+    position: absolute;
+    top: -1.2em;
+    left: .7em;
+    color: #a9a9a9;
+    font-size: .89em;
+    text-decoration: underline;
+}
+
+.language-bash:before { content: "BASH"; }
+.language-json:before { content: "JSON"; }
+.language-sql:before { content: "SQL"; }
+.language-javascript:before { content: "JAVASCRIPT"; }
+.language-php:before { content: "PHP"; }
+.language-python:before { content: "PYTHON"; }
+
+/* 코드 복사 버튼 */
 .highlighter-copy {
 	position: absolute;
 	cursor: pointer;
