@@ -17,7 +17,6 @@
 ## Set
 
 - [Github Pages](https://pages.github.com/)
-- 
 - [Jekyll](https://jekyllrb-ko.github.io/)
 
 ## Theme
