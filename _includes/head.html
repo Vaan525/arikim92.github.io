@@ -32,12 +32,25 @@
 <!-- JS -->
 <script src="//code.jquery.com/jquery-latest.min.js"></script>
 <script src="{{ '/assets/setting.js' | relative_url }}"></script>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-99582153-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-<!-- Google AdSense -->
+    gtag('config', 'UA-99582153-1');
+</script>
+    
+<!-- Google AdSense, Analytics -->
 <script data-ad-client="ca-pub-6063771498918889" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- Google Analytics -->
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6063771498918889",
+        enable_page_level_ads: true
+    });
+</script>
 </head>
