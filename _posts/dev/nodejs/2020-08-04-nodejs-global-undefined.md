@@ -28,7 +28,7 @@ ReferenceError: accessToken is not defined
 테스트는 `GetToken()` 호출 하는 부분을 주석하고 테스트 했다.
     
     
-```javscript
+```javascript
 // google access token 가져오기
 global.accessToken;
 
@@ -57,7 +57,7 @@ router.post("/", async (req, res, next) => {
 
 해결은 첫째줄을 `null` 로 바꿔주는게 끝이었다.
 
-```javscript
+```javascript
 // google access token 가져오기
 global.accessToken = null;
 ```
